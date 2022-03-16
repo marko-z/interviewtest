@@ -1,0 +1,29 @@
+p {
+    font-weight: bolder;
+    font-size: 4vh;
+}
+div.variant1 {
+    background-color: black;
+    
+}
+
+p.variant1 {
+    color: white;
+}
+
+div.variant2 {
+    background-color: gainsboro;
+}
+
+p.variant2 {
+    color: black;
+}
+
+div.variant3 {
+    background-color: red;
+    
+}
+
+p.variant3 {
+    color: yellow;
+}
